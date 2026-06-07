@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name: VENKATANATHAN P R
-### Register Number: 212223240173
+### Name: SHASHANK R
+### Register Number: 212223230205
 
 <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/5f32fc95-c2e7-42d2-a2f2-bca422c62b61" />
 
